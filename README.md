@@ -6,7 +6,7 @@ then accordingly i compare them which in terms helps in selecting the best class
 # Performing the EDA.
 ## Splitting validation Dataset
 # Building models
-  ** Models used are: **
+  **Models used are:** 
     * LogisticRegression
     * LinearDiscriminantAnalysis
     * KNeighborsClassifier
