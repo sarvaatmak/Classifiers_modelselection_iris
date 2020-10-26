@@ -14,7 +14,7 @@ then accordingly i compare them which in terms helps in selecting the best class
 * GaussianNB
 * Support Vector Classifier
 
-# The Accuracy and cross validation score are:
+# The Accuracy and cross validation scores are:
 
 * ***LogisticRegression: 0.966667 (0.040825)***
 * ***LinearDiscriminantAnalysis: 0.975000 (0.038188)***
