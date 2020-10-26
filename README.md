@@ -4,6 +4,10 @@ then accordingly i compare them which in terms helps in selecting the best class
 # Project Overview
 * Getting the dataset using url, naming the columns of the dataset.
 # Performing the EDA.
+**BOXPLOT**
+![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/box.png)
+**PAIRPLOT**
+![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/pairplot.png)
 ## Splitting validation Dataset
 # Building models
   **Models used are:** 
@@ -23,6 +27,7 @@ then accordingly i compare them which in terms helps in selecting the best class
 * ***GaussianNB: 0.975000 (0.053359)***
 * ***Support Vector Classifier: 0.991667 (0.025000)***
 
-# Comparing the models diagramatically
+# Comparing the models diagramatically.
+![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/compare.png)
 
 # Prediction on validation set using KNN is 0.9
