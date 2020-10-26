@@ -4,9 +4,9 @@ then accordingly i compare them which in terms helps in selecting the best class
 # Project Overview
 * Getting the dataset using url, naming the columns of the dataset.
 # Performing the EDA.
-**BOXPLOT**
+### **BOXPLOT**
 ![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/box.png)
-**PAIRPLOT**
+### **PAIRPLOT**
 ![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/pairplot.png)
 ## Splitting validation Dataset
 # Building models
