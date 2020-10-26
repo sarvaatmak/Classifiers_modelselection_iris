@@ -7,10 +7,10 @@ then accordingly i compare them which in terms helps in selecting the best class
 ## Splitting validation Dataset
 # Building models
   **Models used are:** 
-    * LogisticRegression
-    * LinearDiscriminantAnalysis
-    * KNeighborsClassifier
-    * DecisionTreeClassifier
-    * GaussianNB
-    * Support Vector Classifier
+      * LogisticRegression
+      * LinearDiscriminantAnalysis
+      * KNeighborsClassifier
+      * DecisionTreeClassifier
+      * GaussianNB
+      * Support Vector Classifier
 
