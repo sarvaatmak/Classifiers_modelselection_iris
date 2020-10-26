@@ -9,6 +9,10 @@ then accordingly i compare them which in terms helps in selecting the best class
 ### **PAIRPLOT**
 ![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/pairplot.png)
 ## Splitting validation Dataset
+* X_train
+* X_test
+* y_train
+* y_test
 # Building models
   **Models used are:** 
 * LogisticRegression
