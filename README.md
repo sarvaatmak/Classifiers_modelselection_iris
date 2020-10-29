@@ -35,3 +35,5 @@ then accordingly i compare them which in terms helps in selecting the best class
 ![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/compare.png)
 
 # Prediction on validation set using KNN is 0.9
+
+#### [**Complete code**](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/classifiers_modelselection_iris.ipynb)
