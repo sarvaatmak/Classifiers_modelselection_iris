@@ -1,4 +1,4 @@
-# Classifiers Modelselection Iris
+# Classifiers Model Selection Iris
 Here i use number of models on iris dataset to check the accuracy and cross validation scores,
 then accordingly i compare them which in terms helps in selecting the best classifier for our iris dataset.
 # Project Overview
