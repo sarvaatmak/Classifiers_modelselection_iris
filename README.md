@@ -1,9 +1,9 @@
 # Classifiers Model Selection Iris
 Here i use number of models on iris dataset to check the accuracy and cross validation scores,
 then accordingly i compare them which in terms helps in selecting the best classifier for our iris dataset.
-# Project Overview
+## Project Overview
 * Getting the dataset using url, naming the columns of the dataset.
-# Performing the EDA.
+## Performing the EDA.
 ### **BOXPLOT**
 ![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/box.png)
 ### **PAIRPLOT**
@@ -13,7 +13,7 @@ then accordingly i compare them which in terms helps in selecting the best class
 * X_test
 * y_train
 * y_test
-# Building models
+## Building models
   **Models used are:** 
 * LogisticRegression
 * LinearDiscriminantAnalysis
@@ -22,7 +22,7 @@ then accordingly i compare them which in terms helps in selecting the best class
 * GaussianNB
 * Support Vector Classifier
 
-# The Accuracy and cross validation scores are:
+## The Accuracy and cross validation scores are:
 
 * ***LogisticRegression: 0.966667 (0.040825)***
 * ***LinearDiscriminantAnalysis: 0.975000 (0.038188)***
@@ -31,9 +31,9 @@ then accordingly i compare them which in terms helps in selecting the best class
 * ***GaussianNB: 0.975000 (0.053359)***
 * ***Support Vector Classifier: 0.991667 (0.025000)***
 
-# Comparing the models diagramatically.
+## Comparing the models diagramatically.
 ![](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/image/compare.png)
 
-# Prediction on validation set using KNN is 0.9
+## Prediction on validation set using KNN is 0.9
 
-#### [**Complete code**](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/classifiers_modelselection_iris.ipynb)
+# [**Complete code**](https://github.com/sarvaatmak/Classifiers_modelselection_iris/blob/main/classifiers_modelselection_iris.ipynb)
